@@ -1,70 +1,55 @@
-@font-face{
+@font-face {
   font-family: "B Yekan";
   src: url("./Font/Yekan.ttf");
 }
-@font-face{
+@font-face {
   font-family: "b titr";
   src: url("./Font/BTitrBd.ttf");
 }
-@font-face{
+@font-face {
   font-family: "Lalezar";
-  src: url("./Font/Lalezar-Regular");
+  src: url("./Font/Lalezar-Regular.ttf");
 }
 
-body
-{
-	background-image:url("./1.jpg");
+body {
+  background-image: url("./1.jpg");
 }
 
-
-
-.p1
-{
-	font-family:"B Yekan";
-	font-size:20px;
-
+.p1 {
+  font-family: "B Yekan";
+  font-size: 20px;
 }
-.p2
-{
-	color:white;
-	font-family:"Lalezar";
-	font-size:30px;
+.p2 {
+  color: white;
+  font-family: "Lalezar";
+  font-size: 30px;
 }
-.p3
-{
-	color:white;
-	font-family:"b titr";
-	font-size:15px;
+.p3 {
+  color: white;
+  font-family: "b titr";
+  font-size: 15px;
 }
-.p3
-{
-
-	color:white;
-	font-family:"b titr";
-	font-size:15px;
+.p3 {
+  color: white;
+  font-family: "b titr";
+  font-size: 15px;
 }
 
-img
-{
-	border-radius:100px;
-	display:block;
-	margin-left:auto;
-	margin-right:auto;
+img {
+  border-radius: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-
-
-a:link
-{
-color:#0073e6;	
+a:link {
+  color: #0073e6;
 }
 
-a:visited
-{
-	color:gray;
+a:visited {
+  color: gray;
 }
 
-a:hover
-{
-	color:#ff0000;
+a:hover {
+  color: #ff0000;
 }
